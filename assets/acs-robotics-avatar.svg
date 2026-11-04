@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Applied Computer Science — Robotics Lab</title>
+  <desc id="desc">A robotic gripper surrounds a turquoise computing core. Circuit connections extend through its wrist, uniting software and physical robotics.</desc>
+  <!-- Mechanical fingers and palm -->
+  <g fill="none" stroke="#F5F8FC" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M192 144H153L132 238 196 302H316L380 238 359 144H320"/>
+    <path d="M225 306V351M287 306V351"/>
+  </g>
+  <!-- Computing core, held by the gripper -->
+  <g fill="none" stroke="#39D5C5" stroke-width="12" stroke-linecap="round">
+    <path d="M232 170V153M256 170V153M280 170V153M232 238V255M256 238V255M280 238V255M222 182H205M222 206H205M290 182H307M290 206H307"/>
+  </g>
+  <rect x="222" y="170" width="68" height="68" rx="15" fill="#39D5C5"/>
+  <path d="m245 188-15 16 15 16m22-32 15 16-15 16" fill="none" stroke="#101D35" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Circuit pathways become the robot wrist -->
+  <g fill="none" stroke="#39D5C5" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 303V388M225 351H194L177 374M287 351H318L335 374"/>
+  </g>
+  <g fill="#39D5C5"><circle cx="256" cy="391" r="14"/><circle cx="175" cy="377" r="14"/><circle cx="337" cy="377" r="14"/></g>
+</svg>
